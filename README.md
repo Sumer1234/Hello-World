@@ -1,3 +1,3 @@
 # Hello-World
-Start up for git hub 
-Sumer purohit here i have started learning data science course recently and i wan to learn everything about it
+Start up for git hub
+Hi..Sumer purohit here,I have recently started learning data science course  and i want to learn everything about it
